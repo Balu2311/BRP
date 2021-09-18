@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CHeck_EquvalArray", "CHeck_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Armstrong_Numbers", "Armstrong_Numbers\Armstrong_Numbers.csproj", "{8787821C-CFCF-4902-BC73-D6EC907A6C6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "all_Zeros_move_toEnding", "all_Zeros_move_toEnding\all_Zeros_move_toEnding.csproj", "{E77034E4-1C58-4BE7-BC97-A9F73F070DFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "all_Zeros_move_toEnding", "all_Zeros_move_toEnding\all_Zeros_move_toEnding.csproj", "{E77034E4-1C58-4BE7-BC97-A9F73F070DFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci_seriesandFactorialprogram", "Fibonacci_seriesandFactorialprogram\Fibonacci_seriesandFactorialprogram.csproj", "{58058B79-7200-4FD9-812C-C458138B490C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{E77034E4-1C58-4BE7-BC97-A9F73F070DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E77034E4-1C58-4BE7-BC97-A9F73F070DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E77034E4-1C58-4BE7-BC97-A9F73F070DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58058B79-7200-4FD9-812C-C458138B490C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58058B79-7200-4FD9-812C-C458138B490C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58058B79-7200-4FD9-812C-C458138B490C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58058B79-7200-4FD9-812C-C458138B490C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
